@@ -1,2 +1,2 @@
 a readme file
-update
+update 2.0
